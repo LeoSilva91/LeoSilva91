@@ -16,11 +16,6 @@
 ## 🌱 **Objetivo Profissional**
 Busco desenvolver soluções tecnológicas que sejam úteis, acessíveis e impactantes, enquanto evoluo como profissional em projetos desafiadores e colaborativos.
 
-Você pode incluir essa seção de "Hard Skills" com ícones em sua bio do GitHub utilizando Markdown com links para as imagens dos ícones. Veja como poderia ficar:
-
-
-Você pode adicionar essa seção com os ícones representando as tecnologias que você estuda diretamente no README do seu GitHub usando Markdown. Veja como ficaria:
-
 ---
 
 ## 🚀 Linguagens e Ferramentas que Estudo

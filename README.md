@@ -1,6 +1,10 @@
-# Leonardo Silva
+<!-- \\\\\\\ - "HELLO, I'M Leonardo Silva!" | "WELCOME TO MY PROFILE!" - /////// -->
+  <p align="center">
+    <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Leonardo+Silva!;Welcome+to+my+profile!&center=true&width=500&height=28"></a>
+  </p>
 
-💻 **Desenvolvedor Full Stack em formação**, com experiência na criação de projetos que combinam tecnologia, inovação e impacto real. Tenho paixão por aprender, resolver problemas e colaborar em equipes para criar soluções de alto valor.
+
+💻 **Desenvolvedor Full Stack**, com experiência na criação de projetos que combinam tecnologia, inovação e impacto real. Tenho paixão por aprender, resolver problemas e colaborar em equipes para criar soluções de alto valor.
 
 ## 🌟 **Projetos em Destaque**
 - **Ecommerce React**: Plataforma de ecommerce moderna e responsiva, desenvolvida com **React**, **Tailwind CSS** e configurada com **Vite**, ideal para sistemas de vendas online.
